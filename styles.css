@@ -28,3 +28,8 @@ footer {
     padding: 20px;
     margin-top: 20px;
 }
+
+#contact h2 {
+    color: #006AEE; /* New heading color */
+}
+
